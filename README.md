@@ -91,6 +91,7 @@ Dengan dataset ILPD dan pendekatan machine learning, diagnosis awal penyakit hat
 ## 👨‍🔬 Penulis
 
 **Ephesians Prismaranatha**  
+**A11.2022.14632**
 Program Studi Teknik Informatika S1  
 Universitas Dian Nuswantoro
 
